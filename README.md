@@ -4,12 +4,12 @@
 	producto y el cociente de ambos números con el siguiente formato. 
 	
 	
-	Digite un numero: 3
-	Digite un numero: 4
-	- - - Resultados - - -
-		Suma: 7
-		Multiplicacion: 1
-		Division: 0.75
+	Digite un numero: 3 <br>
+	Digite un numero: 4 <br>
+	- - - Resultados - - - <br>
+		Suma: 7 <br>
+		Multiplicacion: 1 <br>
+		Division: 0.75 <br><br>
 	
 	
 	-	Utilice un único printf para imprimir los resultados. Utilice las secuencias de 
