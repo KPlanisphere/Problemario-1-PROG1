@@ -1,5 +1,5 @@
-#Introducción Al Lenguaje
-# Problemario 1 - Programacion 1
+# Introducción Al Lenguaje
+## Problemario 1 - Programacion 1
 
 1.	Escriba un programa que pida al usuario dos números enteros y que imprima la suma, el 
 	producto y el cociente de ambos números con el siguiente formato. 
